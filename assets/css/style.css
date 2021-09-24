@@ -112,7 +112,8 @@ a:active {
 
 .section .block h1 {
     font-weight: 800;
-    font-size: 45px;
+    font-size: 42px;
+    color: #E1D61A;
 }
 
 .about {
@@ -231,7 +232,7 @@ a:active {
 /* navigation */
 
 .navbar-brand {
-    color: #444;
+    color: #E1D61A;
     font-size: 25px;
     margin: 0;
     line-height: 1;
@@ -243,7 +244,11 @@ a:active {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #444;
+    color: #E1D61A;
+}
+
+.logo-gmt {
+    width: 70px;
 }
 
 

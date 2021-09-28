@@ -106,14 +106,25 @@ a:active {
     text-decoration: none;
 }
 
+#section {
+    background-image: url(../img/bg-011.jpg);
+    background-size: 100%;
+}
+
 .section {
     padding: 100px 0;
 }
 
 .section .block h1 {
-    font-weight: 700;
+    font-weight: 800;
     font-size: 38px;
     color: #E1D61A;
+}
+
+.section .block p {
+    color: white;
+    font-weight: 400;
+    padding-bottom: 20px;
 }
 
 .about {

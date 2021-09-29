@@ -108,7 +108,7 @@ a:active {
 
 #section {
     background-image: url(../img/bg-03.jpg);
-    background-size: 100%;
+/*     background-size: 100%; */
 }
 
 .section {
